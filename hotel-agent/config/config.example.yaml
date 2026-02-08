@@ -1,0 +1,3 @@
+app:
+  name: hotel-agent
+  log_level: info
